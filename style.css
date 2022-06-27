@@ -1,0 +1,50 @@
+*{
+margin : 0;
+padding : 0;
+font-family: Arial, sans-serif;
+}
+h1
+{
+padding:20px;
+margin:20px;
+color:orange;
+}
+.content
+{
+padding:50px;
+margin:50px;
+height: 10em;
+display:flex;
+align-items: center;
+justify-content: center
+border:solid;
+radius:20px;
+}
+.res_h1
+{
+padding:20px;
+margin:20px;
+}
+.btn_convert
+{
+padding:10px;
+margin:10px;
+radius:30px;
+cursor:pointer;
+font-size:1rem;
+font-weight:600;
+}
+.btn_convert:hover
+{
+color:blue;
+}
+.data_input
+{
+padding:10px;
+margin:10px;
+}
+.select_deg
+{
+padding:10px;
+margin:10px;
+}
